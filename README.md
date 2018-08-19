@@ -52,4 +52,4 @@ custom styles.
 
 ## メモ
 - .envを編集、そして公開しない設定
-- gitignoreの使い方学んだ
+- gitignoreの使い方学んだ~キャッシュ削除大切~
